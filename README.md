@@ -4,3 +4,12 @@ En la tabla ranking hay una fila cuyo jugador es una moneda (no sale en la web).
 #|  9 | MONEDA-1: ARC-7X3K | secreto     
 Moneda dos 
  MONEDA 2: ARC-Q9M2
+ NIVEL 3:
+ .env.example
+.gitignore
+Dockerfile
+README.md
+db/init.sql
+docker-compose.yml
+src/index.php
+El unico problema que me he encontrado son problemas de sintaxis y de tabulacion lo solucione pasandole el codigo a la ia y viendo donde no estaba igualado 

@@ -1,3 +1,4 @@
+
 -- Salón recreativo · datos iniciales
 -- Se ejecuta SOLO la primera vez que arranca MariaDB con el volumen vacío.
 USE arcade;
